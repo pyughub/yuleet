@@ -15,13 +15,15 @@ Run any solution directly:
 
 ```bash
 python spiral_matrix.py
-python linked_list_cycle.py
+python daily_temperatures.py
 ```
 
 ## Problems
 
-| Topic | File |
-|-------|------|
+### Array & String
+
+| Problem | File |
+|---------|------|
 | Two Sum | `two_sum.py` |
 | Three Sum | `three_sum.py` |
 | Container With Most Water | `container_with_most_water.py` |
@@ -38,10 +40,74 @@ python linked_list_cycle.py
 | Longest Consecutive Sequence | `longest_consecutive_sequence.py` |
 | Set Matrix Zeroes | `set_matrix_zeros.py` |
 | Spiral Matrix | `spiral_matrix.py` |
+
+### Binary Search
+
+| Problem | File |
+|---------|------|
+| Search Insert Position | `search_insert_position.py` |
+| Search a 2D Matrix | `search_a_2D_matrix.py` |
+| Find First and Last Position of Element in Sorted Array | `find_first_and_last_position_of_element_in_sorted_array.py` |
+| Search in Rotated Sorted Array | `search_in_rotated_sorted_array.py` |
+| Median of Two Sorted Arrays | `median_of_two_sorted_array.py` |
+
+### Linked List
+
+| Problem | File |
+|---------|------|
 | Intersection of Two Linked Lists | `intersection_of_two_linked_lists.py` |
 | Reverse Linked List | `reverse_linked_list.py` |
 | Palindrome Linked List | `palindrome_linked_list.py` |
 | Linked List Cycle | `linked_list_cycle.py` |
+| Add Two Numbers | `add_two_numbers.py` |
+| Merge Two Sorted Lists | `merge_two_sorted_lists.py` |
+| Remove Nth Node From End of List | `remove_nth_node_from_end_of_list.py` |
+| Swap Nodes in Pairs | `swap_nodes_in_pairs.py` |
+| Copy List with Random Pointer | `copy_list_with_random_pointer.py` |
+| Sort List | `sort-list.py` |
+
+### Tree
+
+| Problem | File |
+|---------|------|
+| Binary Tree Inorder Traversal | `binary_tree_inorder_traversal.py` |
+| Binary Tree Level Order Traversal | `binary_tree_level_order_traversal.py` |
+| Invert Binary Tree | `invert_binary_tree.py` |
+| Diameter of Binary Tree | `diameter_of_binary_tree.py` |
+| Validate Binary Search Tree | `validate_binary_search_tree.py` |
+| Convert Sorted Array to Binary Search Tree | `convert_sorted_array_to_binary_search_tree.py` |
+| Construct Binary Tree from Preorder and Inorder Traversal | `construct_binary_tree_from_preorder_and_inorder_traversal.py` |
+
+### Graph
+
+| Problem | File |
+|---------|------|
+| Number of Islands | `number_of_islands.py` |
+| Course Schedule | `course_schedule.py` |
+
+### Backtracking & DFS
+
+| Problem | File |
+|---------|------|
+| Permutations | `permutations.py` |
+| Subsets | `subsets.py` |
+| Combination Sum | `combination_sum.py` |
+| Generate Parenthesis | `generate_parenthesis.py` |
+| Word Search | `word_search.py` |
+| Palindrome Partitioning | `palindrome_partitioning.py` |
+
+### Stack
+
+| Problem | File |
+|---------|------|
+| Decode String | `decode_string.py` |
+| Daily Temperatures | `daily_temperatures.py` |
+
+### Trie
+
+| Problem | File |
+|---------|------|
+| Implement Trie (Prefix Tree) | `implement_trie_prefix_tree.py` |
 
 ## Workflow
 
