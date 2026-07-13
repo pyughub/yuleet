@@ -41,6 +41,7 @@ python daily_temperatures.py
 | Set Matrix Zeroes | `set_matrix_zeros.py` |
 | Spiral Matrix | `spiral_matrix.py` |
 | Top K Frequent Elements | `top_k_frequent_elements.py` |
+| Pascal's Triangle | `Pascal_Triangle.py` |
 
 ### Binary Search
 
@@ -111,6 +112,15 @@ python daily_temperatures.py
 |---------|------|
 | Jump Game | `jump_game.py` |
 | Jump Game II | `jump_game_ii.py` |
+| Partition Labels | `partition_labels.py` |
+
+### Dynamic Programming
+
+| Problem | File |
+|---------|------|
+| House Robber | `house_robber.py` |
+| Perfect Squares | `perfect_squares.py` |
+| Word Break | `word_break.py` |
 
 ### Trie
 
