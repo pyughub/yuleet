@@ -40,6 +40,7 @@ python daily_temperatures.py
 | Longest Consecutive Sequence | `longest_consecutive_sequence.py` |
 | Set Matrix Zeroes | `set_matrix_zeros.py` |
 | Spiral Matrix | `spiral_matrix.py` |
+| Top K Frequent Elements | `top_k_frequent_elements.py` |
 
 ### Binary Search
 
@@ -102,6 +103,14 @@ python daily_temperatures.py
 |---------|------|
 | Decode String | `decode_string.py` |
 | Daily Temperatures | `daily_temperatures.py` |
+| Largest Rectangle in Histogram | `largest_rectangle_in_histogram.py` |
+
+### Greedy
+
+| Problem | File |
+|---------|------|
+| Jump Game | `jump_game.py` |
+| Jump Game II | `jump_game_ii.py` |
 
 ### Trie
 
