@@ -121,6 +121,9 @@ python daily_temperatures.py
 | House Robber | `house_robber.py` |
 | Perfect Squares | `perfect_squares.py` |
 | Word Break | `word_break.py` |
+| Maximum Product Subarray | `maximum_product_subarray.py` |
+| Longest Increasing Subsequence | `longest_increasing_subsequence.py` |
+| Longest Palindromic Substring | `longest_palindromic_substring.py` |
 
 ### Trie
 
