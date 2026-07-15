@@ -42,6 +42,10 @@ python daily_temperatures.py
 | Spiral Matrix | `spiral_matrix.py` |
 | Top K Frequent Elements | `top_k_frequent_elements.py` |
 | Pascal's Triangle | `Pascal_Triangle.py` |
+| Majority Element | `majority_element.py` |
+| Single Number | `single_number.py` |
+| Sort Colors | `sort_colors.py` |
+| Next Permutation | `next_permutation.py` |
 
 ### Binary Search
 
