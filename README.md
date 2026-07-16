@@ -46,6 +46,7 @@ python daily_temperatures.py
 | Single Number | `single_number.py` |
 | Sort Colors | `sort_colors.py` |
 | Next Permutation | `next_permutation.py` |
+| Find the Duplicate Number | `find_the_duplicate_number.py` |
 
 ### Binary Search
 
